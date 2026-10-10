@@ -307,9 +307,3 @@ Roadmap:
 - [ ] Reduce monitor message verbosity to `UVM_HIGH`, add simulation timeout
 
 ---
-
-## 11. Author
-
-4th-year Electronics and Telecommunications student, HCMUS. Learning ASIC Design Verification (SystemVerilog and UVM).
-
-This is a learning project. AI assistance was used for debugging and code review while building it.
