@@ -1,0 +1,16 @@
+work/
+transcript
+*.wlf
+modelsim.ini
+vsim.wlf
+wlft*
+*.vstf
+
+
+wave.do
+dump.vcd
+sim.log
+
+
+__pycache__/
+*.pyc
